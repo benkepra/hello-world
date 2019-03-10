@@ -1,2 +1,4 @@
 # hello-world
-first repository
+
+This is learning of GitHub and git.
+The version contolling system.
